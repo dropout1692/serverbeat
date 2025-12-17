@@ -1,0 +1,11 @@
+server:
+  port: 7001
+  
+config:
+  secret: "<redacted>"
+  serverName: "<redacted>"
+  serverAddress: "<redacted>"
+  relayTarget: "<redacted>"
+
+crypto:
+  salt: "<redacted>"

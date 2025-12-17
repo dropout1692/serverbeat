@@ -1,0 +1,5 @@
+server:
+  port: 7042
+
+crypto:
+  salt: "<redacted>"
